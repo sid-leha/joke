@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+>>>>>>> 0e708fd (first commit)
   <component name="ChangeListManager">
     <list default="true" id="525246e4-b856-4d35-9c8f-eb19584ab072" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +25,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "onboarding.tips.debug.path": "/home/administrator/IdeaProjects/joke/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+=======
+    "onboarding.tips.debug.path": "/home/administrator/IdeaProjects/joke/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+>>>>>>> 0e708fd (first commit)
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="525246e4-b856-4d35-9c8f-eb19584ab072" name="Changes" comment="" />
@@ -33,6 +50,20 @@
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+>>>>>>> 0e708fd (first commit)
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -44,4 +75,11 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+>>>>>>> 0e708fd (first commit)
 </project>
